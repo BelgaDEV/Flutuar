@@ -18,7 +18,7 @@ Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="Flutuar Pacotes" src="/images/img1.png" width="100%">
+  <img alt="Flutuar Pacotes" src="/images/img1.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
